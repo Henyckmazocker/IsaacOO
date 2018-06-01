@@ -1,0 +1,13 @@
+N N N N N N N N N N N N N N N 
+N N N N N N N O1 N N N N N N N
+N N M M M M M M M M M M N N N
+N N M M M M M M N M M M M N N
+N N M M M M M M M M M N M N N
+N N M M M M M M M P M M M N N
+N O2 M M M M M M N M M N M O3 N
+N N M M M M M M M M M M M N N
+N N M M M M M M M M M M M N N
+N N M M M M M M M M M M M N N
+N N M M M M M M M M M M M N N
+N N N N N N N O4 N N N N N N N
+N N N N N N N N N N N N N N N
